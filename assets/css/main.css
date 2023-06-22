@@ -121,7 +121,7 @@ input, select, textarea {
 /* Type */
 
 	body {
-		background-color: #935d8c;
+		background-color: #4275f5;
 		color: rgba(255, 255, 255, 0.65);
 	}
 
@@ -2168,7 +2168,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #935d8c;
+			background: #4275f5;
 		}
 
 	input[type="checkbox"] + label,
@@ -2186,7 +2186,7 @@ input, select, textarea {
 	input[type="radio"]:checked + label:before {
 		background-color: #ffffff;
 		border-color: #ffffff;
-		color: #935d8c;
+		color: #4275f5;
 	}
 
 	input[type="checkbox"]:focus + label:before,
